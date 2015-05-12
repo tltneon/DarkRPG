@@ -2,18 +2,23 @@
 DarkRPG Stats and Weapons Unlock System Module for DarkRP
 
 **Custom Stats and Unlocks**
+
   Each job gets 19 stats that increase based on level and gets upto 10 unlocks each each. 
 
 **Weapon Bonuses**
+
   Weapons can be restricted based on level or donator and stats only effect unlocked weapons, and bonuses work automatically with most weapons on the workshop automatically (such as M9K)!
 
 **Stat Specifics**
+
   Critical Hit, Evasion, Reflect Damage, Armor, Health, Run Speed, Jump Height, Prison Reduction, Salary Increase, Buy Reduction, and 5 weapon bonuses and 5 damage resistance types!
 
 **Character Sheet**
+
   Comes with four custom hud backgrounds which can be toggled on/off with F2 and moved using F3!
 
 **Requirements**
+
   DarkRP by FPtje and Vrondakis Leveling System, install and config instructions on the next panel!
 
 Special thanks to Hades, and consider donating on Patreon, or not, whatever.
@@ -38,8 +43,9 @@ Follow These steps:
 
 # Additional Links
 Patreon: https://www.patreon.com/EmperorOfTheInternet
+
 Steam Page: http://steamcommunity.com/sharedfiles/filedetails/?id=441545069
+
 Facepunch: http://facepunch.com/showthread.php?t=1465167
-What it looks like: http://images.akamai.steamusercontent.com/ugc/31867631257691271/5A6A44A3EF3FA29F735B70991BF97FE9865B82B3/
 
-
+What it looks like: http://i.imgur.com/qpeOQNf.jpg
