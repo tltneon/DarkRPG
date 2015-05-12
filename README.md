@@ -1,7 +1,7 @@
 # DarkRPG
 DarkRPG Stats and Weapons Unlock System Module for DarkRP
 
-Custom Stats and Unlocks
+[b] Custom Stats and Unlocks [/b]
 	Each job gets 19 stats that increase based on level and gets upto 10 unlocks each each. 
 
 Weapon Bonuses
@@ -29,7 +29,7 @@ Follow These steps:
 
 2) Download the Sound Effects Used at: https://www.dropbox.com/s/kql75qlgzz9ru9x/sound.zip?dl=0
 
-3a) Place all of the files into your 'garrysmod/garrysmod/addons/darkrpmodification-master' folder and then overwrite darkrp_modules, darkrp_config, and darkrp_customthings --OR-- you can simply make a folder, and then dump them into that folder and label it 'darkrpg' or something and place that folder in 'garrysmod/garrysmod/addons/darkrpg'
+3) Place all of the files into your 'garrysmod/garrysmod/addons/darkrpmodification-master' folder and then overwrite darkrp_modules, darkrp_config, and darkrp_customthings --OR-- you can simply make a folder, and then dump them into that folder and label it 'darkrpg' or something and place that folder in 'garrysmod/garrysmod/addons/darkrpg'
 
 4) Modify the files config.lua, config_gui.lua and/or jobstats.lua in 'darkrp_config' and 'darkrp_customthings' folders.
 
